@@ -10,7 +10,7 @@ First, go and get cosmovisor (recommended approach):
 go get github.com/cosmos/cosmos-sdk/cosmovisor/cmd/cosmovisor
 
 ​
-# or, with go >= 1.15 you can do
+or, with go >= 1.15 you can do
 go install github.com/cosmos/cosmos-sdk/cosmovisor/cmd/cosmovisor@latest
 
 ​
